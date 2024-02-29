@@ -4,7 +4,7 @@ I built an end-to-end machine learning project. In this project, I predict the n
 
 ## Project Steps
 
-1. Form a hypothesis. \n
+1. Form a hypothesis.
 2. Find and explore the data.
 3. Reshape the data to predict the target.
 4. Clean the data for ML.
