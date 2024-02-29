@@ -4,13 +4,13 @@ I built an end-to-end machine learning project. In this project, I predict the n
 
 ## Project Steps
 
-Form a hypothesis.
-Find and explore the data.
-(If necessary) Reshape the data to predict your target.
-Clean the data for ML.
-Pick an error metric.
-Split your data.
-Train a model.
+1. Form a hypothesis. \n
+2. Find and explore the data.
+3. Reshape the data to predict the target.
+4. Clean the data for ML.
+5. Pick an error metric.
+6. Split your data into training and testing data.
+7. Train a model.
 
 ## Data used
 I used the data from the Olympics on [Kaggle](url).
